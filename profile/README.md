@@ -2,7 +2,7 @@
 
 # Hi! 👋 Thanks for stopping by BeatGlow
 
-<p style="align:center">
+<p align="center">
 
 ![BeatGlow logo](https://avatars.githubusercontent.com/u/195172791?s=320&v=4)
 
